@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SoardRaspi
 - 👀 I’m interested in Electronics and Programming
+- and I love the Dark Mode
 
 <!---
 SoardRaspi/SoardRaspi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
